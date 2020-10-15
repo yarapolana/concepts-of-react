@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/react-gray.svg" >
   <img src="https://img.shields.io/badge/axios-gray.svg" >
   <img src="https://img.shields.io/badge/jest-gray.svg" >
-  <img src="https://img.shields.io/github/license/yarapolana/concepts-of-node" >
+  <img src="https://img.shields.io/github/license/yarapolana/concepts-of-react" >
   <a href="https://yarapolana.com">
    <img src="https://img.shields.io/badge/createdby-yarapolana-red.svg" >
   </a>
