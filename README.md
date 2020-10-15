@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/yarapolana/bootcamp-gostack/blob/master/assets/exports/github-challenge-cover_3.png" style="max-width:100%;" />
+  <img align="center" src="https://github.com/yarapolana/bootcamp-gostack/blob/master/assets/exports/github-challenge-cover_2.png" style="max-width:100%;" />
 </p>
 
 <h1 align="center>Challenge 03: Concepts of ReactJS</h1>
